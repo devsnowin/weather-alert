@@ -1,2 +1,2 @@
-# RainMeter
+# Weather Alert using python
 
